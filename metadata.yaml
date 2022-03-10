@@ -1,5 +1,8 @@
 _repo: The-Stilled-Patter_67487
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67487-h/images/cover.jpg
 creator:
   author:
     agent_name: Gunn, James E.
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25015
     wikipedia: http://en.wikipedia.org/wiki/James_Gunn_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67487#The-Stilled-Patter
 gutenberg_issued: '2022-02-24'
 identifiers:
   gutenberg: '67487'
